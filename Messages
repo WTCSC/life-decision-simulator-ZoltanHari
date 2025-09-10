@@ -1,0 +1,142 @@
+%msg0%
+"Intruder Alert! A RED Spy is in the Base!"
+(You are a Soldier on BLU Team playing on the map 2Fort and your job is to win the game By either capturing RED Team's briefcase or protecting your own) 
+A RED Spy has breached your defenses and is attempting to steal your Intelligence Briefcase
+What Will You Do?
+1. Go Down to the Intelligence Room and Protect Your Briefcase 
+2. Trust That Your Team Will Kill the Spy and Try to Steal the RED Briefcase
+%msg0%
+%msg1%
+(You Chose to Protect the Briefcase)
+You: "A RED Spy is in the base?"
+(You run down to the Intel Room)
+You: "Hut hut hut hut hut."
+Administrator: "Protect the briefcase!"
+You: "We need to protect the briefcase!"
+(As You approach the door You see your teammate the Scout, struggling with the code to open the door)
+Scout: "Yo, a little help here?"
+What is the Code to Get in?
+1. 1111 %2%
+2. 1234 %3%
+%msg1%
+%msg2%
+You: "Alright, alright, I got it. Stand back son. One, two three, uhh, four!"
+(The door doesn't make a noise, indicating that you used the wrong password)
+Scout: "Let's go, let's go, let's go!"
+(You look behind You and see your teammate the Heavy running at You with his minigun)
+Heavy: "Incoming!"
+(Heavy runs into the You and Scout, breaking down the door with his minigun. Heavy runs towards the briefcase, knocking both You and Scout over in the process)
+(The RED Spy Could Already Be in the Room!)
+What Would You Like to Do
+1. Shoot Rockets Everywhere to Try and Kill the Spy While He's Either Invisible or Disguised As One of Your Teammates %4%
+2. Wait to See Whether the Briefcase is Okay or Not %5%
+%msg2
+%msg3
+"Alright, alright, I got it. Stand back son. One, two three, uhh, four!"
+You: "Alright, alright, I got it. Stand back son. One, one one, uhh, one!"
+(The door beeps, telling you that you entered the correct password)
+Scout: "Let's go, let's go, let's go!"
+(You look behind You and see your teammate the Heavy running at You with his minigun)
+Heavy: "Incoming!"
+(Heavy runs into the You and Scout, breaking down the door with his minigun. Heavy runs towards the briefcase, knocking both You and Scout over in the process)
+(The RED Spy Could Already Be in the Room!)
+What Would You Like to Do
+1. Shoot Rockets Everywhere to Try and Kill the Spy While He's Either Invisible or Disguised As One of Your Teammates %4%
+2. Wait to See Whether the Briefcase is Okay or Not %5%
+%msg3
+%msg4
+You Chose to Shoot Rockets Everywhere
+You: "Maggots!"
+(You shoot rockets around the room, hitting the Scout in the process)
+Scout: "I'm dying here" 
+(The Scout dies but as he falls to the ground, he transforms into the RED Spy)
+(Feeling victorious that you killed the RED Spy, you begin to laugh at him)
+(The rest of your team leaves and as you continue to taunt the dead Spy, you hear the loud decloaking sound of the Spy)
+(Just as you realize that the Spy faked his death using his deadringer, you get backstabbed and die)
+You Have Died
+%msg4%
+%msg5%
+You Chose to Wait to See Whether the Briefcase was Okay or Not
+Scout: [Screams,]... "Hey, it's still here."
+Heavy: [Yells,]... "Alright then."
+[Camera pans to behind Heavy. There is a BLU Spy holding a BLU Sniper over his shoulder. The Sniper is dead.]
+Spy: "Ahem, gentlemen. I see the briefcase is safe."
+You: "Safe and sound!"
+Scout: "Yeah, it is!"
+Spy: "Tell me, did anyone happen to kill a RED Spy on the way here?"
+(Scout shrugs, You and Heavy look at each other and then back to Spy)
+"No? Then we still have a problem."
+(Spy tosses Sniper's corpse onto the desk, showing the Sniper still has a Spy's knife in his back)
+"Ooh, big problem. I kill plenty of Spies. They're dime-a-dozen back-stabbin' scumbags. Like you! No offense."
+"If you manage to kill them, I assure you, they were not like me."
+"And nothing, nothing, like the man loose inside this building."
+"What are you? President of his fan club?"
+"No.."
+"That would be your mother!"
+(Spy brings out a Manila folder. He slams it against the desk, and it has "TOP SECRET, SCOUT'S MOM" written on it) 
+(Multiple images of the RED Spy and BLU Scout's mother being intimate fly out of the folder and onto the desk)
+"Indeed, and now he is here to Fuck us! So listen up, boy, or photography starring your mother will be the second worst thing that happens to you today."
+"The Spy has already breached our defenses...
+"You've seen what he's done to our colleagues!"
+"And worst of all, he could be any one of us."
+"He could be in this very room! 
+(The BLU Spy seems to know a lot about the RED Spy. That Seems Suspicious)
+This Spy Seems Suspicious, What Would You Like to Do About it
+1. Shoot the BLU Spy %6%
+2. Do Noting and Wait Until You're Sure %7%
+%msg5%
+%msg6%
+You Chose to Shoot the Spy
+Spy: "He could be you. He could be me! He could even be-" 
+(The Spy's head get blown off mid sentence by your shotgun)
+Scout: "Woah, woah, woah!"
+Heavy: "Oh..."
+You: "What? It was obvious! He was the RED Spy! Watch, he'll turn red any second now."
+(You nudge the BLU Spys foot with your shotgun)
+You: "Aaaany second now..."
+(The Scout looks around, seemingly unfazed by the death of his teammate and slowly approaches)
+You: "See! Red! No wait, that's blood..."
+(The now RED Spy un-flicks the knife, slowly approaching the unsuspecting BLU's)
+Heavy: "So... We still got problem."
+You: "Big problem..."
+(The Scout approaches them, knife ready)
+You: "Alright, who's ready to go find this Spy?"
+(You and Heavy are unaware as the BLU Scout uncloaks and turns out to be the RED Spy. The Spy lifts his knife, prepared to backstab both of them.)
+RED Spy: "Right behind you." 
+You Have Died
+%msg6%
+%msg7%
+You Decide to Wait Until You're Sure That the BLU Spy is the RED Spy
+Spy: "He could be you. He could be me! He could even be invisible."
+You: "Let's catch this crouton eating Frenchie"
+Scout: "Shouldn't we uhh, get some backup here!"
+Who Should You Call for backup
+1. Call for the Medic
+2. Call for the Pyro
+%msg7%
+%msg8%
+You Decide to Call for the Medic
+You: "C'mere Cupcake"
+(The Medic uses his Über charge to make You invulnerable as You attempt to find the RED Spy)
+Medic: "Auf Wiedersehen, Schweinehund!"
+(Struggling to find the Spy, You start frantically looking around and shooting everything)
+(As the Über charge runs out you hear the Medic scream)
+Medic: "Ze Spy is a double agent!"
+(You turn around to see the Medic dead on the ground with the RED Spy behind him)
+(You run over to hit him with your shovel but the Spy runs around you and backstabs you)
+You Have Died
+%msg8%
+%msg9%
+You Chose to Call the Pyro
+You: "C'mere Sally"
+(The Pyro runs over to you and starts setting everything on fire while yelling)
+Pyro: "Murr hurr mphuphurrur, hurr mph phrr"
+(The BLU Scout gets set on fire indicating that he is the RED Spy and begins to yell)
+Scout:"Oh, I'm burnin', I'm-I'm burnin'!"
+(The Scout dies and transforms into the RED Spy)
+You Have Won
+%msg8%
+Option 2 First Question At start
+%msg9%
+You Chose to Trust That Your Team Will Kill the Spy and Try to Steal the RED Briefcase
+%msg9%
