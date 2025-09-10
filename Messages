@@ -3,8 +3,8 @@
 (You are a Soldier on BLU Team playing on the map 2Fort and your job is to win the game By either capturing RED Team's briefcase or protecting your own) 
 A RED Spy has breached your defenses and is attempting to steal your Intelligence Briefcase
 What Will You Do?
-1. Go Down to the Intelligence Room and Protect Your Briefcase 
-2. Trust That Your Team Will Kill the Spy and Try to Steal the RED Briefcase
+1. Go Down to the Intelligence Room and Protect Your Briefcase %msg1%
+2. Trust That Your Team Will Kill the Spy and Try to Steal the RED Briefcase %msg9%
 %msg0%
 %msg1%
 (You Chose to Protect the Briefcase)
@@ -118,6 +118,8 @@ Who Should You Call for backup
 You Decide to Call for the Medic
 You: "C'mere Cupcake"
 (The Medic uses his Über charge to make You invulnerable as You attempt to find the RED Spy)
+Medic: "Raus Raus, Move Now"
+(You begin to search for the RED Spy as the Medic begins to taunt the Spy, trying to draw him out)
 Medic: "Auf Wiedersehen, Schweinehund!"
 (Struggling to find the Spy, You start frantically looking around and shooting everything)
 (As the Über charge runs out you hear the Medic scream)
@@ -139,4 +141,115 @@ You Have Won
 Option 2 First Question At start
 %msg9%
 You Chose to Trust That Your Team Will Kill the Spy and Try to Steal the RED Briefcase
+You: "Ataaaack!"
+(You run out of your base and near the bridge connecting the two bases)
+(You Notcice that there is a sniper on the Battlements on the second floor of the enemies based aimed at you)
+How Will You Avoid Death?
+1. Rocket Jump Up to the Battlements to Kill the Sniper %msg10%
+2. Jump Under the Bridge and Use the Large Opening Leading Under Their Base %msg15%
 %msg9%
+%msg10%
+You Chose to Rocket Jump To the Battlements
+(As You approach the Sniper, you notice that he is distracted with you friendly Sniper, making him an easy kill)
+(You could kill him with your rockets but then could survive and escape before you can kill him)
+(Or You could kill the Sniper with your shovel, the Market Gardener, instantly killing him while mid-air, ensuring that he doesn't escape)
+What Would You Like to Do?
+1. Shoot a Rocket at the Sniper %msg12%
+2. Kill Him With The Market Gardeder %msg11%
+%msg10%
+%msg11%
+You Chose to Kill the Sniper With Your Market Gardener
+(You rocket jump above the Sniper and take out your Market Garnder, ready to swing and kill the Sniper)
+(Just before you kill him, the Sniper noitices that you are above him and dodges your swing)
+(The Sniper throws his jar of piss, the Jarate, at you and takes out his knife, the Bushwacka)
+(He uses his Jarate and Bushwacka combo to instanly kill you with one hit)
+Sniper: "This is gonna be a real piece of piss, you bloody fruit shop owner!"
+You Have Died 
+%msg11%
+%msg12%
+You Chose to Shoot A Rocket at the Sniper
+(The rocket flies at the Sniper, but he dodges, meaning only the blast hits him)
+(You quickly shoot another rocket and manage to hit him right as he fled into his spawn room, killing him)
+You: "I will send my condolences to your kangaroo wife"
+%msg12%
+%msg13%
+(You move past the enemy teams spawn room and head to the Courtyard where the enterance to the briefcase room is)
+(As you approach the briefcase room, you notice that is it unclocked and are about to head in)
+(Just as You are about to enter the room you think that there might be someone in the room but you only have 2 rockets left)
+What Will You Do?
+1. Shoot Your Rockets in the Room to Kill Anyone in There %14%
+2. Run in and Try to Deal With Them Using Your Shotgun %15%
+%msg13%
+%msg14%
+You Chose To Shoot Your Rockets to Kill Anyone in the Intelliegnce Room
+(You shoot Your rockets inside the room and hear a Texan screaming followed by the sound of machines being blown up)
+(You Walk in and See the Dead Engineer With His Teleports and Sentry Gun Destroyed)
+You: "Stop hiding behind your little toys and fight like a man!"
+(You take the briefcase and run back to your base, securing the enemies Intelligence Briefcase)
+You Have Won
+%msg14%
+%msg15%
+You Decided To Save Your Rockets and Run in With Your Shotgun
+(You run into the Intel Room and are met by the Engineer with his sentry that has 2 miniguns and a rocket salvo strapped to it)
+(You get gunned down and blown up)
+Engineer: "Whoooowee! Makin' bacon!"
+You Have Died
+%msg15%
+Back to Decision Between Battlements or Sewers
+%msg16%
+You Chose to Dodge the Sniper and Run Into the Opening, The Large Sewers That Go Under the Enemies Base
+(You jump into the small body of water under the bridge and swim into the opening, leading to small sever room where you see an enemy teleporter)
+(This teleporter allows the enemy team to more quickly go into Your sewers and avoid having to face your team)
+What Will You Do?
+1. Sit At The Teleprter and Kill Anyone That Enter (Giving You More Points) %17%
+2. Destroy The Teleporter and Move On to the Rest of the Base %18%
+%msg16%
+%msg17%
+You Chose To Kill Anyone That Enters the Teleporter
+(You walk up next to the teleporter and begin to emote, using the emote to instantly kill anyone that enter the teleporter)
+(After a few seconds, enemies begin to enter the teleporter and die instantly)
+(As You Continue to taunt kill the enemies, the enemy Scout runs behind you with his scattergun and shoots you in the back)
+(The Scout laughs and taunts your dead body)
+Scout: "AH HAHA, You got owned! You're a disgrace to the uniform, pal!"
+You Have Died
+%msg17%
+%msg18%
+You Chose to Destroy the Teleporter and Move Onto the Rest of the Base
+(As You exit the sewers using a stair case that leads to the first floor of the eneimes base you notice two paths you can use)
+(You can go to the Courtyard near the enemies spawn room and enter the Intel Room from there)
+(Or You could rocket jump up a grate in the ceiling, allowing you to get to the second floor and avoid the enemies spawn room to enter the Intel Room another way)
+1. Go to the Courtyard %13%
+2. Rocket Jump Up to the Grate %19%
+%msg18%
+%msg19%
+You Chose To Rocket Jump Up to the Grate
+(You rocket jump up to the second floor and begin to move toward the spiral stairs leading down to the Intel Room)
+(Before you get to the stair you stop and think)
+(You could go to the enemies spawn room and kill them as they spawn, ensuring that you could safely return to Your base after getting the briefcase)
+(Or you could go down the stairs and try to get the briefcase as soon as possible)
+What Will You Choose?
+1. Spawn Camp the Enemy %20%
+2. Run Down the Spiral Stairs and Go to the Intel Room %21%
+%msg19%
+%msg20%
+You Chose to Spawn Camp the Enemy
+(You stand in front of the enemies spawn room, waiting for the enemies to leave so you can kill them)
+(After killing a few of them you begin to reload and go over to the spiral staircase, knowing that your way back to your base is more safe than before)
+(As You turn your back You don't notice the enemy Medic running at you with his Über Saw, trying to avenge his team)
+(As you get to the spiral staircase, the Medic catches up to you can instantly kills you with one stab due to a random critical hit)
+(You fall over and hear the Medic taunt you as you die)
+Medic: "Ze healing is not as revarding as ze hurting"
+You Have Died
+%msg20%
+%msg21%
+You Chose to Go Down the Spiral Staircase
+(You begin to run down the staircase, ready for anyone to be at the bottom)
+(After reaching the bottom, you see the RED Demoman watching the other entrance)
+(You take out Your rocket launcher and right as You begin to run at him, exiting the staircase, and get ready to shoot the Demoman)
+(He turns around and detonates his stickybomb trap placed above the entrance of the staircase that you didn't notice"
+Demoman: "KA-BOOM!"
+(You explode and Your head rols over to the Demoman)
+(Right as You are about to die you hear the Demoman taunt you)
+Demoman: "Oh, they're goin' ta have to glue you back together... IN HELL!"
+You Have Died
+%msg21%
