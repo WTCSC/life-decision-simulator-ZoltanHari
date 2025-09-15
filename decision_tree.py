@@ -1,7 +1,7 @@
 import re 
 
 def read_file(msg_num):
-    with open("Messages", "r") as file:
+    with open("messages.txt", "r") as file:
         message = file.read().split(f"%msg{msg_num}%")[1]
         try:
             responses = message.split("1.")[1].split("2.")
