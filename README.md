@@ -53,4 +53,4 @@ What Will You Do?
 
 ## Flow Chart
 
-![](https://imgur.com/a/qVM5ukM)
+![](https://i.imgur.com/W5TrFMK.png)
