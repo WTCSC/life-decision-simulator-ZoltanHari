@@ -1,6 +1,6 @@
 # Life Decision Simulator
 
-A **Team Fortress 2 themed choose-your-own-adventure game** based on the official short film _Meet the Spy_ and events that frequently occur on the map _cft\_2fort_ during a typical game.
+A **Team Fortress 2 themed choose-your-own-adventure game** based on the official short film _Meet the Spy_ and events that frequently occur on the map _cft\_2fort_ during a typical game.  
 Players make decisions that lead to branching paths in the story that lead to victory or death
 
 ## Requirements
@@ -10,11 +10,11 @@ Python 3.8 or Higher
 ## Installation  
 
 1. Clone the Repository 
-
+  
 git clone https://github.com/WTCSC/life-decision-simulator-ZoltanHari.git
 
 2. Open the Cloned Repository 
-
+  
 cd life-decision-simulator-ZoltanHari
 
 ## Usage
@@ -29,7 +29,7 @@ cd life-decision-simulator-ZoltanHari
 
 ### Examples
 
-
+![](https://s8.ezgif.com/tmp/ezgif-85881bebcb41dc.gif)
 
 ## Path Modification 
 
