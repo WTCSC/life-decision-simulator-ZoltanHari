@@ -146,6 +146,9 @@ Pyro: "Murr hurr mphuphurrur, hurr mph phrr"
 Scout:"Oh, I'm burnin', I'm-I'm burnin'!"
 (The Scout dies and transforms into the RED Spy)
 You Have Won
+Play Again?
+1. Yes %0%
+2. No %23%
 %msg9%
 Option 2 First Question At start
 %msg10%
@@ -204,7 +207,10 @@ You Chose To Shoot Your Rockets to Kill Anyone in the Intelliegnce Room
 (You Walk in and See the Dead Engineer With His Teleports and Sentry Gun Destroyed)
 You: "Stop hiding behind your little toys and fight like a man!"
 (You take the briefcase and run back to your base, securing the enemies Intelligence Briefcase)
-You Have Won
+You Have Won 
+Play Again?
+1. Yes %0%
+2. No %23%
 %msg15%
 %msg16%
 You Decided To Save Your Rockets and Run in With Your Shotgun
@@ -283,3 +289,6 @@ Would You Like To Go Back To The Previous Choice Or Go Back To The Start?
 1. Previous Choice %20%
 2. Start %0%
 %msg22%
+%msg23%
+Goodbye
+%msg23%
