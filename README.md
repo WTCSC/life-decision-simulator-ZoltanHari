@@ -27,7 +27,7 @@ cd life-decision-simulator-ZoltanHari
 
 4. Keep Going Until You Either Win or Die
 
-### Example
+### Usage Example
 
 ![](https://s8.ezgif.com/tmp/ezgif-85881bebcb41dc.gif)
 
@@ -41,7 +41,7 @@ To Edit Existing Paths or Add New Ones Open the **`messages.txt`** File and Use 
 2.(option 2) %(number of message that path leads to)%
 %msg(message number)%
 ```
-### Example 
+### Path Modification Example 
 ```python
 %msg0%
 (You see a suspicious doorway)
