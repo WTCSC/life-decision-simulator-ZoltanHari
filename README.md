@@ -27,7 +27,7 @@ cd life-decision-simulator-ZoltanHari
 
 4. Keep Going Until You Either Win or Die
 
-### Examples
+### Example
 
 ![](https://s8.ezgif.com/tmp/ezgif-85881bebcb41dc.gif)
 
