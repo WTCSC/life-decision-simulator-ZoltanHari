@@ -50,3 +50,7 @@ What Will You Do?
 2. Walk Away %2%
 %msg0%
 ```
+
+## Flow Chart
+
+![](https://imgur.com/a/qVM5ukM)
