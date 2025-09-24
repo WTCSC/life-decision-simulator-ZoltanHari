@@ -29,7 +29,7 @@ cd life-decision-simulator-ZoltanHari
 
 ### Usage Example
 
-![](https://s8.ezgif.com/tmp/ezgif-85881bebcb41dc.gif)
+![](~/Home/Pictures/Screenshots/Decision.gif)
 
 ## Path Modification 
 
